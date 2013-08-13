@@ -1,1 +1,1 @@
-class { 'apelparser::repositories': }
+class { 'apelpublisher::repositories': }
